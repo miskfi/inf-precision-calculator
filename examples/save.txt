@@ -1,0 +1,10 @@
+Expressions:
+5 + 87 - 243 * 2
+5 * 3 * 4
+
+Variables:
+demo == -75
+var == 33.45
+number == 41
+expression == 4 + 784 - ( 24 * 2 ) + 42
+number == 42
